@@ -1,0 +1,2 @@
+Celem ćwiczenia jest przygotowanie aplikacji JSF przy użyciu biblioteki komponentów
+PrimeFaces. Do wykonania ćwiczenia potrzebne jest środowisko NetBeans w wersji 13.
