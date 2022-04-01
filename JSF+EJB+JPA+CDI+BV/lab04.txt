@@ -1,0 +1,5 @@
+Celem ćwiczenia jest utworzenie prostej aplikacji bazodanowej umożliwiającej przeglądanie
+i dodawanie zleceń serwisowych. Ćwiczenie pokazuje współpracę technologii JSF, CDI, EJB
+i JPA w ramach platformy Java EE / Jakarta EE. Do realizacji ćwiczenia wymagane jest
+środowisko NetBeans 13 wraz z serwerem aplikacji Payara i serwerem bazy danych H2
+(zawartym w serwerze aplikacji Payara).
