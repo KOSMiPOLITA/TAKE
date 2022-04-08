@@ -1,0 +1,3 @@
+Celem ćwiczenia jest zapoznanie z komunikatowymi komponentami EJB w wersji 3.x
+w kontekście aplikacji Java EE / Jakarta EE wykorzystującej również sesyjne EJB, encje JPA
+i strony JSF. Ćwiczenia zostały przygotowane dla środowiska NetBeans 13 i serwera Payara.
