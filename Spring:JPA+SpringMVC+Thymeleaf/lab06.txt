@@ -1,0 +1,7 @@
+Celem ćwiczenia jest wykorzystanie frameworka Spring do stworzenia aplikacji internetowej
+do rezerwacji apartamentów. Projekt zostanie stworzony przy użyciu Spring Boot,
+z wykorzystaniem Spring MVC jako frameworka aplikacji webowej, JPA do dostępu do bazy
+danych oraz Thymeleaf dla interfejsu użytkownika. Założonym IDE jest IntelliJ IDEA
+(Community Edition), ale można użyć dowolnego innego IDE wspierającego projekty Maven
+lub Gradle, ponieważ nie będziemy polegać na kreatorach do tworzenia komponentów
+aplikacji.
