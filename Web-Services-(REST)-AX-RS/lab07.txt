@@ -1,0 +1,4 @@
+Do realizacji ćwiczenia wymagane jest środowisko NetBeans 13 wraz z serwerem aplikacji
+Payara i dostarczanym wraz z nim wbudowanym serwerem bazy danych H2. Potrzebne
+będzie również narzędzie do testowania API dostępnego poprzez protokół HTTP. W opisie
+ćwiczenia przyjęto, że narzędziem tym będzie Postman.
