@@ -1,0 +1,5 @@
+Do realizacji projektu potrzebne jest zintegrowane środowisko programistyczne Microsoft
+Visual Studio 2022.
+W ramach projektu budowana jest prosta aplikacja wykorzystująca framework MVC,
+bazująca na modelu bazy danych utworzonym zgodnie ze strategią Code First. Aplikacja
+zostanie wygenerowana kreatorem MVC scaffolding.
