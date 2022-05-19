@@ -1,0 +1,5 @@
+Do realizacji ćwiczeń potrzebne jest zintegrowane środowisko programistyczne Microsoft
+Visual Studio 2022.
+Celem ćwiczeń jest wykorzystanie technologii ASP.NET do implementacji Web API.
+Warstwa dostępu do danych będzie oparta na Entity Framework z wykorzystaniem strategii
+Code First from database oraz zapytaniach LINQ.
