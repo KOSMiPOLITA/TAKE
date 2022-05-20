@@ -1,0 +1,6 @@
+Do realizacji ćwiczeń potrzebne jest zintegrowane środowisko programistyczne Microsoft
+Visual Studio 2022.
+Celem ćwiczeń jest wykorzystanie techniki Ajax do komunikacji z API zaimplementowaną
+w ASP.NET Web API (w architekturze Minimal API) z poziomu strony HTML
+w przeglądarce. Usługa będzie obliczać wyniki dodawania, odejmowania, mnożenia
+i dzielenia dla podanych dwóch liczb całkowitych. 
