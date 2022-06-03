@@ -1,0 +1,11 @@
+Celem ćwiczeń jest zbudowanie aplikacji typu SPA (Single Page Application), której backend będzie zaimplementowany na platformie .NET Core z wykorzystaniem ASP.NET Web
+API, a front-end przy użyciu frameworka Angular. Front-end i back-end będą uruchomione
+na odrębnych serwerach, w związku z czym do ich współpracy zostanie wykorzystany
+mechanizm CORS. Dane aplikacji po stronie back-endu będą przechowywane w pamięciowej
+bazie danych, do której dostęp będzie realizowany poprzez Entity Framework.
+Do realizacji ćwiczeń potrzebne jest następujące oprogramowanie:
+- .NET SDK 6.0 lub nowsze (może być zainstalowane z Visual Studio lub samodzielnie)
+- Visual Studio Code + C# extension (instalowany z poziomu panelu Extensions w VS Code)
+- node.js + npm (npm instaluje się wraz z node.js)
+- Angular CLI (instalowane z poziomu npm)
+- Postman
